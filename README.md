@@ -2,8 +2,7 @@
 - 👀 I’m interested in Embedded systems and hardware design
 - 🌱 I’m currently learning stuff to make UIs I suck at those. 
 - 💞️ I’m looking to collaborate on my MakeItRain project, and possibly my AMS project. If you have a similar project then hit me up. 
-- 📫 How to reach me just use the email listed or message me 
-
+- 📫 How to reach me just use the email listed
 
 Question: Does this count as Human interaction? 
 
