@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TJLTM
+- 👋 Hi
 - 👀 I’m interested in Embedded systems and hardware design
 - 🌱 I’m currently learning stuff to make UIs I suck at those. 
 - 💞️ I’m looking to collaborate on my MakeItRain project, and possibly my AMS project. If you have a similar project then hit me up. 
