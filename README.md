@@ -8,6 +8,8 @@ Question: Does this count as Human interaction?
 
 Why I have these Repos... I have decided to share what i have been working on alone and really i know there are other people out there that need to solve some of the same problems that i have. Mostly my designs are focused on analog data acquisition and some type of automation. really this all about making my life easier in some way or some how saving money or time for me. 
 
+https://www.youtube.com/watch?v=vcFBwt1nu2U a very important video on programming you shoudl watch. 
+
 <!---
 TJLTM/TJLTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
