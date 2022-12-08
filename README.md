@@ -12,6 +12,8 @@ also i love puns and inside jokes see if you can spot them
 
 https://www.youtube.com/watch?v=vcFBwt1nu2U a very important video on programming you should watch. 
 
+I am Comerruper and Implementaler of Stupid Ideas that Work. 
+
 <!---
 TJLTM/TJLTM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
